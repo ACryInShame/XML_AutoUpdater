@@ -1,0 +1,7 @@
+C:\Users\Louis.D'Agusto\OneDrive - STATE OF DELAWARE\Documents\Visual Studio 2022\Solutions\Gladius_Mods\XML_AutoUpdater\bin\Debug\XML_AutoUpdater.exe.config
+C:\Users\Louis.D'Agusto\OneDrive - STATE OF DELAWARE\Documents\Visual Studio 2022\Solutions\Gladius_Mods\XML_AutoUpdater\bin\Debug\XML_AutoUpdater.exe
+C:\Users\Louis.D'Agusto\OneDrive - STATE OF DELAWARE\Documents\Visual Studio 2022\Solutions\Gladius_Mods\XML_AutoUpdater\bin\Debug\XML_AutoUpdater.pdb
+C:\Users\Louis.D'Agusto\OneDrive - STATE OF DELAWARE\Documents\Visual Studio 2022\Solutions\Gladius_Mods\XML_AutoUpdater\obj\Debug\XML_AutoUpdater.csproj.AssemblyReference.cache
+C:\Users\Louis.D'Agusto\OneDrive - STATE OF DELAWARE\Documents\Visual Studio 2022\Solutions\Gladius_Mods\XML_AutoUpdater\obj\Debug\XML_AutoUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Louis.D'Agusto\OneDrive - STATE OF DELAWARE\Documents\Visual Studio 2022\Solutions\Gladius_Mods\XML_AutoUpdater\obj\Debug\XML_AutoUpdater.exe
+C:\Users\Louis.D'Agusto\OneDrive - STATE OF DELAWARE\Documents\Visual Studio 2022\Solutions\Gladius_Mods\XML_AutoUpdater\obj\Debug\XML_AutoUpdater.pdb
