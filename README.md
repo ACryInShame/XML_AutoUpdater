@@ -1,13 +1,9 @@
 # XML_AutoUpdater
-This program replaces the matching nodes in UpdateElements.xml in-between the <update> nodes, with matching nodes in any files in the Data folder (including subfolders)
+This program replaces all data inbetween the nodes in any files in the Data folder (including subfolders) with info matching nodes from the UpdateElements.xml.
 
 
-Go to the Bin > debug folders
-Update the UpdateElements.xml to what you wish to replace.
-put the files you wish to update into the Data folder
-run XML_AutoUpdater.exe
-
-when it says finished, just press any button to exit.
+Go to the Bin > debug folders and Update the UpdateElements.xml to what you wish to replace.
+put the files you wish to update into the Data folder and run XML_AutoUpdater.exe. When it says finished, just press any button to exit.
 
 Check your files as they should be done.
 
